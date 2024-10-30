@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DataCapture continueOnError="false" enabled="true" name="DC-TokenLengths">
+    <DisplayName>DC-TokenLengths</DisplayName>
+    <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
+    <Capture>
+      <Collect ref="llm.requestTokenLength" default="0"/>
+      <DataCollector>dc_llm_request_token_count</DataCollector>
+    </Capture>
+    <Capture>
+      <Collect ref="llm.responseTokenLength" default="0"/>
+      <DataCollector>dc_llm_response_token_count</DataCollector>
+    </Capture>
+</DataCapture>

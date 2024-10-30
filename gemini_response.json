@@ -1,0 +1,498 @@
+[{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": "The"
+          }
+        ]
+      }
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": " sky appears blue due to a phenomenon called Rayleigh scattering. Sunlight, which is white light composed of"
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.064453125,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.025146484
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.14160156,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.043945313
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.14648438,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.01977539
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.07714844,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.02758789
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": " all colors, enters the Earth's atmosphere. Different colors of light have different wavelengths."
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.05029297,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.02758789
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.10839844,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.036865234
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.15917969,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.014038086
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.08496094,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.02722168
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": " Blue light has a shorter wavelength than other colors, such as red or yellow. As sunlight travels through the atmosphere, it interacts with the gas molecules present there."
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.041503906,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.018798828
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.11279297,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.03857422
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.14648438,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.012817383
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.10839844,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.020385742
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": " These molecules scatter the light in different directions. However, shorter wavelengths, such as blue, are scattered more efficiently than longer wavelengths. This scattered blue light reaches our eyes from all"
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.051757813,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.024414063
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.106933594,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.036132813
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.14453125,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.01586914
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.122558594,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.02368164
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": " directions in the sky, making it appear blue. This is why we see a blue sky during the day.\n\n**Here's a more detailed explanation:**\n\n1. **Sunlight and Its Composition:** Sunlight is a mixture of all colors"
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.055908203,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.037353516
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.07714844,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.06640625
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.12158203,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.017456055
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.10253906,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.03112793
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": ", each with a different wavelength. The visible light spectrum ranges from violet (shortest wavelength) to red (longest wavelength).\n2. **Earth's Atmosphere:** The Earth is surrounded by a layer of gases called the atmosphere. The main"
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.03857422,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.025146484
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.071777344,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.04345703
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.115722656,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.01586914
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.103515625,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.024414063
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": " components of the atmosphere are nitrogen and oxygen molecules.\n3. **Rayleigh Scattering:** When sunlight enters the atmosphere, it interacts with the gas molecules. These molecules scatter the light in different directions. The amount of scattering depends on the size of the molecule and the wavelength of light.\n4. **Blue Light Scattering:**"
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.04663086,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.027954102
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.07470703,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.05029297
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.111328125,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.017944336
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.115722656,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.022338867
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": " Blue light has a shorter wavelength than other colors. This means it is scattered more efficiently by the gas molecules in the atmosphere.\n5. **Scattered Light Reaching Our Eyes:** The scattered blue light reaches our eyes from all directions in the sky. This makes the sky appear blue.\n\n**Additional Points:**\n\n*"
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.048828125,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.029296875
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.068359375,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.053466797
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.115722656,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.018798828
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.12109375,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.02758789
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": " During sunrise and sunset, the sunlight travels a longer path through the atmosphere. This causes more blue light to be scattered away, leaving the remaining light with a reddish hue.\n* The scattering of sunlight is also responsible for the blue color of water and the sky on other planets with atmospheres.\n* Rayleigh scattering is named after"
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.052734375,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.027954102
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.06640625,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.051757813
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.115722656,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.020385742
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.11767578,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.024780273
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": " Lord Rayleigh, who first explained the phenomenon in the 19th century."
+          }
+        ]
+      },
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.049560547,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.028442383
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.06347656,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.045410156
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.11767578,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.022949219
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probabilityScore": 0.111328125,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severityScore": 0.02758789
+        }
+      ]
+    }
+  ],
+  "modelVersion": "gemini-1.0-pro"
+}
+,
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "finishReason": "STOP"
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 24,
+    "candidatesTokenCount": 411,
+    "totalTokenCount": 435
+  },
+  "modelVersion": "gemini-1.0-pro"
+}
+]

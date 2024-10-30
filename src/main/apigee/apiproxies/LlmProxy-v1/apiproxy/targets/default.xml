@@ -1,0 +1,28 @@
+<TargetEndpoint name="default">
+  <PreFlow name="PreFlow">
+    <Request>
+      <Step>
+        <Name>AM-SetGeminiData</Name>
+      </Step>
+    </Request>
+    <Response/>
+  </PreFlow>
+  <PostFlow name="PostFlow">
+    <Request/>
+    <Response>
+      <Step>
+        <Name>JS-SetGeminiResponse</Name>
+      </Step>
+    </Response>
+  </PostFlow>
+  <HTTPTargetConnection>
+    <URL>https://europe-west1-aiplatform.googleapis.com/v1/projects/{organization.name}/locations/europe-west1/publishers/google/models/gemini-1.0-pro:streamGenerateContent</URL>
+    <Authentication>
+      <GoogleAccessToken>
+        <Scopes>
+          <Scope>https://www.googleapis.com/auth/cloud-platform</Scope>
+        </Scopes>
+      </GoogleAccessToken>
+    </Authentication>
+  </HTTPTargetConnection>
+</TargetEndpoint>
